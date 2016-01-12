@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+div.one-third {
+	width: 30%;
+	float: left;
+	margin-right: 5%;	
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	margin: 0 0 10px 0;
+}

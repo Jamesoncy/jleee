@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+div.one-third {
+width: 47.5%;
+}
+
+div.one-third-second {
+	margin: 0;
+	}
+	
+	div.one-third-last {
+	clear: both;
+	float: none;
+	width: auto;
+	padding: 20px 0 0 0;	
+		
+	}
